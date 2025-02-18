@@ -2,7 +2,7 @@
 
 *Seja bem-vindo(a) ao meu Github!* 👋
 
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,bots)](https://skillicons.dev) [![My Skills](https://icongr.am/devicon/mysql-original-wordmark.svg?size=59&color=000000)](https://icongr.am/devicon)
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,bots)](https://skillicons.dev) [![My Skills](https://icongr.am/devicon/mysql-original-wordmark.svg?size=59&color=ffffff)](https://icongr.am/devicon)
           
 
           
