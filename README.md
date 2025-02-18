@@ -2,11 +2,10 @@
 
 🚀 *Desenvolvedora de RPA | Automação de Processos* <br><br>
 
-🛠️ **Tecnologias e ferramentas:**
-
+🛠️ **Tecnologias e ferramentas:**<br>
 [![My Skills](https://skillicons.dev/icons?i=py,selenium,bots)](https://skillicons.dev) [![My Skills](https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=ffffff)](https://icongr.am/devicon)
           
-<br><br>
+<br>
 
 📊 **Estatísticas GitHub**:
 
