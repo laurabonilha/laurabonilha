@@ -3,8 +3,8 @@
 🚀 *Desenvolvedora de RPA | Automação de Processos* <br><br>
 
 🛠️ **Tecnologias e ferramentas:**<br>
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,bots)](https://skillicons.dev) [![My Skills](https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=ffffff)](https://icongr.am/devicon)
-          
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,bots)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="45" weight="45"/> <img src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493" alt="UiPath" height="40"/>
+
 <br>
 
 📊 **Estatísticas GitHub**:
